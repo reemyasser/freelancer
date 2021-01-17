@@ -1,0 +1,113 @@
+.header{
+background: #30b9ac;
+color:ghostwhite;
+padding: 10px;
+
+
+}
+.body{
+    padding: 0;
+    margin: none;
+   
+}
+.header .logo{
+
+    float: left;
+}
+.header .nav-bar ul{
+list-style-type: none;
+
+  text-align: right;
+padding: 0;
+margin: 0;
+}
+.header .nav-bar ul li{
+
+display: inline-block;
+padding: 3px
+
+}
+.header .nav-bar ul li a{
+    color: ghostwhite;
+    text-decoration: none;
+}
+.header .nav-bar ul li a:hover{
+text-decoration: underline;
+color: mediumblue;
+}
+.master-header{
+background:honeydew;
+text-align: center;
+padding: 20px  0;
+color: #333;
+}
+.master-header img{
+    width: 170px;
+    height: 170px;
+}
+.content{
+
+    text-align: center;
+}
+#about,#portfolio,#contact{
+    margin: 40px 0;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif
+}
+.footer{
+
+background: #30b9ac;
+color: ghostwhite;
+
+text-align: center;
+
+}
+#portfolio img{
+width: 250px;
+height: 250px;
+padding: 0 30px;;
+}
+#about p{
+
+    text-align: justify;
+
+}
+
+
+#contact .contact-form{
+    width: 500px;
+    
+    border: 1px solid #333;
+    border-radius: 5px;
+    margin: 10px auto;
+    padding: 20px ;
+}
+.btn-primary{
+    background:#30b9ac;
+       border-radius: 50px;
+}
+
+
+.jumbotron{
+    border-radius: 80px;
+    background-color:#fff;
+    border: 1px solid black;
+}
+.imgsh{
+    border-radius: 50px;
+}
+.form_login{
+   
+   
+    margin-top: 19%;
+   
+}
+.container{
+    padding: 10px;;
+}
+.display-4
+{
+    color:  #30b9ac;
+}
+span{
+    color: red;
+}

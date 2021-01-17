@@ -1,0 +1,51 @@
+.login-form{
+    width: 250px;
+    margin:200px auto;
+}
+.login-form h1{
+    font-size: 28px;
+}
+.login-form input{
+    margin-bottom: 7px;
+}
+/* dashboard*/
+.navbar{
+    margin-bottom: 40px;
+    background: #30b9ac;
+   
+}
+.mr-auto,.mr-auto
+{
+   
+    margin-left:80% !important;
+}
+.list-group-item.active {
+    background: honeydew;
+    color: #333;
+}
+.card-header{
+    background: honeydew;
+    color: #333;
+}
+.navbar-light .navbar-brand{
+    color: #fff;
+}
+.navbar-light .navbar-nav .show > .nav-link, .navbar-light .navbar-nav .active > .nav-link, .navbar-light .navbar-nav .nav-link.show, .navbar-light .navbar-nav .nav-link {
+    color: #fff;
+}
+.badge-light
+{
+    background: blue;
+    color: #fff;
+}
+.btn-primary{
+    background:#30b9ac;
+       
+}
+.result{
+    width: 200px;
+    padding: 10px;
+    margin-top: 10px;
+    background-color: aliceblue;
+    display: none;
+}
